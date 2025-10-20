@@ -1,4 +1,4 @@
-# -finsense
+
 # 💰 FinSense — Financial Confidence for Everyone
 
 ---
